@@ -1,6 +1,6 @@
 Colten Sus License R
 
-Version 1.0
+Version 1.1
 
 Copyright (c) [Year] [Your Name or Organization]
 
